@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOLECULVR_Vive.CSharp.Plugins", "MOLECULVR_Vive.CSharp.Plugins.csproj", "{832EC881-1716-2162-45A3-3685BDC39F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOLECULVR_Vive.CSharp", "MOLECULVR_Vive.CSharp.csproj", "{8FB9956C-9FC1-39D5-FBFE-19A14A085D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOLECULVR_Vive.CSharp.Editor", "MOLECULVR_Vive.CSharp.Editor.csproj", "{AF7007B9-0010-7ABD-9890-E4B716DC45E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832EC881-1716-2162-45A3-3685BDC39F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832EC881-1716-2162-45A3-3685BDC39F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832EC881-1716-2162-45A3-3685BDC39F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832EC881-1716-2162-45A3-3685BDC39F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB9956C-9FC1-39D5-FBFE-19A14A085D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB9956C-9FC1-39D5-FBFE-19A14A085D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB9956C-9FC1-39D5-FBFE-19A14A085D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB9956C-9FC1-39D5-FBFE-19A14A085D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7007B9-0010-7ABD-9890-E4B716DC45E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7007B9-0010-7ABD-9890-E4B716DC45E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7007B9-0010-7ABD-9890-E4B716DC45E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7007B9-0010-7ABD-9890-E4B716DC45E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
